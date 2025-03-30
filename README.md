@@ -5,7 +5,7 @@
 * **Email:** nishukundu62@gmail.com
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to play Chess
+- ⚡ Fun fact: I love to play Chess.
 
 <!---
 nishu-kundu/nishu-kundu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
